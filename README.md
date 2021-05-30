@@ -18,6 +18,7 @@ Esto proyecto lo realicé en el curso de backend en Udemy. Esta realizado con lo
 - Javascript
 - PHP
 - Laravel
+- Composer
 - SQL 
 
 ## Como descargar y configurar el proyecto en local
