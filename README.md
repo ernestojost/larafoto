@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Descripción del proyecto
+
+Esto proyecto lo realicé en el curso de backend en Udemy. Esta realizado con los siguientes lenguajes: 
+
+- HTML
+- CSS
+- Bootstrap
+- Responsive Web Design
+- Javascript
+- PHP
+- Laravel
+- SQL 
+
+## Como descargar y configurar el proyecto en local
+
+1- Descargar el proyecto
+
+2- Importar la base de datos "database.sql"
+
+3- Crear un host virtual con el siguiente nombre "proyecto-laravel.com.devel" y como ruta ingresar la ruta a la carpeta "proyecto-laravel/public"
+
+4- Ingresar al sitio "proyecto-laravel.com.devel"
+
+5- La primera vez que se ingresa se debe registrar
+
+6- Luego de registrarse, se puede probar todas las funcioalidades del sitio
+
+Nota: Tener en cuenta que el sitio por defecto no trae ningún usuario ni imagenes publicadas
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
