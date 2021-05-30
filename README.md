@@ -9,7 +9,7 @@
 
 ## Descripción del proyecto
 
-Esto proyecto lo realicé en el curso de backend en Udemy. Esta realizado con los siguientes lenguajes: 
+Esto proyecto lo realicé en el curso de backend en Udemy. Es un proyecto basado en la red social Instagram. Esta realizado con los siguientes lenguajes: 
 
 - HTML
 - CSS
